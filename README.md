@@ -9,3 +9,12 @@ Requirements:
   - Alldata.txt stores all the information of users
   - password.txt file stores the password for admin authentication
   - To change password you can either used change password function in settings of system or manually change the text from password.txt
+
+Features:
+  -Terminal GUI & CUI 
+  - User and Admin Authentication
+  - Main and Department wise staff distribution
+  - File based data storage
+  - Contact based search
+  - Data Validation
+  - Contacts can be created, edited, deleted and searched
