@@ -122,12 +122,12 @@ CIMS provides a compact, offline contact-management experience focused on learni
 </figure>
 
 <figure style="text-align:center">
-  <img src="Output_images/2.png" alt="Login Screen 2" width="600" />
+  <img src="Output_images/outer2.png" alt="Login Screen 2" width="600" />
   <figcaption>Figure 2: Enter password stored in password.txt</figcaption>
 </figure>
 
 <figure style="text-align:center">
-  <img src="Output_images/Dashboard1.png" alt="Dashboard" width="800" />
+  <img src="Output_images/dashboard1.png" alt="Dashboard" width="800" />
   <figcaption>Figure 3: Dashboard — department counts, table view, and navigation area</figcaption>
 </figure>
 
