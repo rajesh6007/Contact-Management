@@ -117,58 +117,63 @@ CIMS provides a compact, offline contact-management experience focused on learni
 ## 📸 Screenshots
 
 <figure style="text-align:center">
-  <img src="Output_images/1.png" alt="Login Screen 1" width="600" />
+  <img src="Output_images/outer1.png" alt="Login Screen 1" width="600" />
   <figcaption>Figure 1: Login Screen — user authentication</figcaption>
 </figure>
 
 <figure style="text-align:center">
   <img src="Output_images/2.png" alt="Login Screen 2" width="600" />
-  <figcaption>Figure 2: Alternate Login view</figcaption>
+  <figcaption>Figure 2: Enter password stored in password.txt</figcaption>
 </figure>
 
 <figure style="text-align:center">
-  <img src="Output_images/3.png" alt="Dashboard" width="800" />
+  <img src="Output_images/Dashboard1.png" alt="Dashboard" width="800" />
   <figcaption>Figure 3: Dashboard — department counts, table view, and navigation area</figcaption>
 </figure>
 
 <figure style="text-align:center">
-  <img src="Output_images/4.png" alt="New Record" width="700" />
+  <img src="Output_images/new_record.png" alt="New Record" width="700" />
   <figcaption>Figure 4: New Record — enter department</figcaption>
 </figure>
 
 <figure style="text-align:center">
-  <img src="Output_images/5.png" alt="New Record" width="700" />
+  <img src="Output_images/data_enter_validation.png" alt="New Record" width="700" />
   <figcaption>Figure 5: New Record — enter contact details</figcaption>
 </figure>
 
 <figure style="text-align:center">
-  <img src="Output_images/6.png" alt="Profile Preview" width="700" />
+  <img src="Output_images/profile.png" alt="Profile Preview" width="700" />
   <figcaption>Figure 6: Profile preview before saving (Edit / Cancel)</figcaption>
 </figure>
 
 <figure style="text-align:center">
-  <img src="Output_images/9.png" alt="Department View" width="700" />
+  <img src="Output_images/departments.png" alt="Department View" width="700" />
   <figcaption>Figure 7: Department table — counts and records</figcaption>
 </figure>
 
 <figure style="text-align:center">
-  <img src="Output_images/10.png" alt="Department View" width="700" />
+  <img src="Output_images/account_dashboard.png" alt="Department View" width="700" />
   <figcaption>Figure 8: Account Department table — counts and records</figcaption>
 </figure>
 
 <figure style="text-align:center">
-  <img src="Output_images/11.png" alt="Settings" width="700" />
-  <figcaption>Figure 9: Settings — Change Password & About</figcaption>
+  <img src="Output_images/about.png" alt="Settings" width="700" />
+  <figcaption>Figure 9: Edit - select the detail to change using bullet letters in input space</figcaption>
 </figure>
 
 <figure style="text-align:center">
-  <img src="Output_images/12.png" alt="Settings" width="700" />
-  <figcaption>Figure 10: Settings — Change Password</figcaption>
+  <img src="Output_images/setting.png" alt="Settings" width="700" />
+  <figcaption>Figure 10: Settings — Change Password & About</figcaption>
 </figure>
 
 <figure style="text-align:center">
-  <img src="Output_images/13.png" alt="Settings" width="700" />
-  <figcaption>Figure 11: Settings — About</figcaption>
+  <img src="Output_images/change_password.png" alt="Settings" width="700" />
+  <figcaption>Figure 11: Settings — Change Password</figcaption>
+</figure>
+
+<figure style="text-align:center">
+  <img src="Output_images/about.png" alt="Settings" width="700" />
+  <figcaption>Figure 12: Settings — About</figcaption>
 </figure>
 
 > Tip: I hope these images will help you to navigate through the system.
